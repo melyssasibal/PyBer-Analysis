@@ -20,4 +20,14 @@ The disparity between rural and urban drivers could be due to the number of in-s
 On average, there are nines times more drivers available in urban cities than there are in rural cities. Following supply-demand economics, this analysis assumes that as the number of drivers in cities increase, the fare cost decreases.  
 
 ![line_chart](/analysis/Pyber_Fare_Summary.png)
+
 The chart above summarizes weekly fare totals for rural, suburban, and urban cities from January 2019 to April 2019. As with fare averages discussed previously, rural city totals fall way below the totals for urban and suburban cities. Despite the large disparity in fare totals, all types show a sharp increase at the end of February and then decreases at the start of March. 
+
+## Summary 
+After analysis, PyBer should take note of the following:
+
+1. Disparities of fare per driver: Because the number of drivers available in each city seems to factor into driver payment, PyBer should take a closer look at how fares are determined. Are fares reflective of the communities that utilize PyBer for both the rider, in terms of cost, and the driver, in terms of payment? Does PyBer care about equity across different communities? 
+
+2. Low number of rides in rural cities: PyBer should conduct further analysis as to why ride totals are so low in rural cities. Based on the current analysis, reasons for low utilization could be due to high fares, which deter costumers, or low availability of drivers. Another reason could be that local people are unaware of PyBer or that they do not prefer to use the service. However, further analysis could prove worthwhile, especially if PyBer could increase use in those communities. 
+
+3. Data from rural and suburban communities are not equallly represented in this sample: Analysis from this data could be incomplete if there are additional cities that utilize PyBe, but were not included in this dataset. Therefore, conclusions drawn from this analysis could not present how people are using PyBer in the missing cities. 
